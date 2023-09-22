@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cuongvu0103.github.io/static/css/main.6848f810.css",
+    "main.js": "/cuongvu0103.github.io/static/js/main.263458b7.js",
+    "index.html": "/cuongvu0103.github.io/index.html",
+    "main.6848f810.css.map": "/cuongvu0103.github.io/static/css/main.6848f810.css.map",
+    "main.263458b7.js.map": "/cuongvu0103.github.io/static/js/main.263458b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6848f810.css",
+    "static/js/main.263458b7.js"
+  ]
+}
